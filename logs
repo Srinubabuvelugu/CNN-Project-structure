@@ -1,0 +1,34 @@
+[2023-12-06 09:58:24,543]: Creating the directory: .github\workflows for the file: .gitkeep
+[2023-12-06 09:58:24,554]: Creating empty file: .github\workflows\.gitkeep
+[2023-12-06 09:58:24,555]: Creating the directory: src\CNNclassifier for the file: __init__.py
+[2023-12-06 09:58:24,555]: Creating empty file: src\CNNclassifier\__init__.py
+[2023-12-06 09:58:24,555]: Creating the directory: src\CNNclassifier\components for the file: __init__.py
+[2023-12-06 09:58:24,556]: Creating empty file: src\CNNclassifier\components\__init__.py
+[2023-12-06 09:58:24,556]: Creating the directory: src\CNNclassifier\utils for the file: __init__.py
+[2023-12-06 09:58:24,557]: Creating empty file: src\CNNclassifier\utils\__init__.py
+[2023-12-06 09:58:24,557]: Creating the directory: src\CNNclassifier\config for the file: __init__.py
+[2023-12-06 09:58:24,559]: Creating empty file: src\CNNclassifier\config\__init__.py
+[2023-12-06 09:58:24,559]: Creating the directory: src\CNNclassifier\pipeline for the file: __init__.py
+[2023-12-06 09:58:24,560]: Creating empty file: src\CNNclassifier\pipeline\__init__.py
+[2023-12-06 09:58:24,560]: Creating the directory: src\CNNclassifier for the file: entity__init__.py
+[2023-12-06 09:58:24,561]: Creating empty file: src\CNNclassifier\entity__init__.py
+[2023-12-06 09:58:24,561]: Creating the directory: src\CNNclassifier\constants for the file: __init__.py
+[2023-12-06 09:58:24,562]: Creating empty file: src\CNNclassifier\constants\__init__.py
+[2023-12-06 09:58:24,562]: Creating the directory: tests for the file: __init__.py
+[2023-12-06 09:58:24,562]: Creating empty file: tests\__init__.py
+[2023-12-06 09:58:24,563]: Creating the directory: tests\unit for the file: __init__.py
+[2023-12-06 09:58:24,563]: Creating empty file: tests\unit\__init__.py
+[2023-12-06 09:58:24,563]: Creating the directory: tests\integration for the file: __init__.py
+[2023-12-06 09:58:24,564]: Creating empty file: tests\integration\__init__.py
+[2023-12-06 09:58:24,564]: Creating the directory: configs for the file: config.yaml
+[2023-12-06 09:58:24,564]: Creating empty file: configs\config.yaml
+[2023-12-06 09:58:24,565]: Creating empty file: params.yaml
+[2023-12-06 09:58:24,565]: Creating empty file: init_setup.sh
+[2023-12-06 09:58:24,566]: Creating empty file: requirements.txt
+[2023-12-06 09:58:24,567]: Creating empty file: requirements_dev.txt
+[2023-12-06 09:58:24,567]: Creating empty file: setup.py
+[2023-12-06 09:58:24,568]: Creating empty file: setup.cfg
+[2023-12-06 09:58:24,568]: Creating empty file: pyproject.toml
+[2023-12-06 09:58:24,569]: Creating empty file: tox.ini
+[2023-12-06 09:58:24,569]: Creating the directory: research for the file: trials.ipynb
+[2023-12-06 09:58:24,569]: Creating empty file: research\trials.ipynb
