@@ -6,3 +6,4 @@ source activate ./CNN_project_structure_env
 echo [%(date)]: "instaling the dev requirements"
 pip install -r requirements_dev.txt
 echo [$(date)]:"END"
+## To run this file in bash by "bash init_setup.py"
