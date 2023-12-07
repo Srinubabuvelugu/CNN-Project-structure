@@ -5,12 +5,12 @@ notebook
 numpy
 matplotlib
 seaborn
-pyhton-box==6.0.2
+python-box==6.0.2
 pyYAML
 tqdm
 ensure==1.0.2
 joblib
-types-pyYAML
+types-PyYAML
 scipy
 mlflow==1.26.1
 -e .
