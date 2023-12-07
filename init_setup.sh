@@ -1,9 +1,8 @@
-echo [$(date)]:"START"
-echo [$(date)]: "creating env with python 3.8 version"
-conda create --prefix ./CNN_project_structure_env python=3.8 -y
-echo [S(date)]: "activating the environment"
-source activate ./CNN_project_structure_env
-echo [%(date)]: "instaling the dev requirements"
+#echo [$(date)]: "START" 
+#echo [$(date)]: "creating env with python 3.8 version" 
+#conda create --prefix ./env python=3.8 -y
+echo [$(date)]: "activating the environment" 
+source activate ./env
+echo [$(date)]: "installing the dev requirements" 
 pip install -r requirements_dev.txt
-echo [$(date)]:"END"
-## To run this file in bash by "bash init_setup.py"
+echo [$(date)]: "END" 
