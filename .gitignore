@@ -124,6 +124,8 @@ celerybeat.pid
 .venv
 env/
 venv/
+CNN_Project_structure_env/
+.CNN_Project_structure_env
 ENV/
 env.bak/
 venv.bak/
