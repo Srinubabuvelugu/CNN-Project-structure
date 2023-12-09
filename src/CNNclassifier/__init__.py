@@ -3,11 +3,11 @@ import sys
 import logging
 
 
-log_dir = "logs"
+log_dir = "log"
 
 log_filepath = os.path.join(log_dir,"running_logs.log")
 ## Creating the logs directory 
-os.maksir(log_dir,exist_ok=True)
+os.makedirs(log_dir,exist_ok=True)
 
 format_msg = "[%(asctime)s - %(levelname)s - %(module)s]: %(message)s"
 logging.basicConfig(level=logging.INFO,
